@@ -1,4 +1,4 @@
-# room8 [iOS app]
+# Room8 [iOS app]
 An iOS app that resolves issues of dividing the debt between roomates.
 
 The following **required** functionality is completed:
