@@ -1,0 +1,6 @@
+framework module Pods_room8_room8UITests {
+  umbrella header "Pods-room8-room8UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
